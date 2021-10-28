@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer!!
 
-- 🌱 I’m currently learning unity and c#
+- 🌱 I’m great at Javascript and javascript framework i.e React ❤️
 - 🥅 2021 Goals: Contribute more to projects
 - ⚡ Fun fact: I love travelling.
 
